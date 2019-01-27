@@ -1,0 +1,6 @@
+# .gitignore #
+##############
+
+.vscode/
+
+launch.json
